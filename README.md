@@ -19,7 +19,10 @@ REQUIREMENTS:
 * Evernote
 * Omnifocus
 
-Credit goes to Nick Wild of 360 Degree Media (www.360degreesmedia.com/)  for the original script. All I have done is modified some bits and pieces, but all credit should go to Nick Wild.
+Credit goes to Nick Wild of [360 Degree Media](www.360degreesmedia.com/) and Thanh Pham 
+of [Asian Efficiency](www.asianefficiency.com) for the original script. All I have done is modified some bits and pieces, 
+but all credit should go to Nick Wild and Thanh Pham.
+
 
 If you want to have this script run automatically on a regular interval, use the program Lingon. Read this blog post on how to do it:
 
