@@ -20,7 +20,7 @@ You can change this in the settings below
 REQUIREMENTS:
 * Evernote
 * Omnifocus
-* Lingon X or Lingon 3
+* [Lingon X or Lingon 3](http://www.peterborgapps.com/lingon)
 
 Credit goes to Nick Wild of [360 Degree Media](www.360degreesmedia.com/) and Thanh Pham 
 of [Asian Efficiency](www.asianefficiency.com) for the original script. All I have done is modified some bits and pieces, 
