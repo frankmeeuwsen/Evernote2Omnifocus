@@ -1,6 +1,6 @@
 # Evernote2Omnifocus
 
-**This script is no longer actively maintained. Please know I will not update or improve this script based on issues. Pull requests are always welcome **
+**This script is no longer actively maintained. Please know I will not update or improve this script based on issues. Pull requests are always welcome**
 
 Evernote2Omnifocus helps you to make Evernote notes into Omnifocus tasks with respect to the given reminder time in Evernote.
 The original script is made by Thanh Pham from [Asian Efficiency](http://www.asianefficiency.com)
